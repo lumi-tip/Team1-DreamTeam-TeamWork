@@ -4,9 +4,10 @@ The aim of this website consist on work as a team while developing our skills in
 
 ## 📝 Team and Goals
 
-🧑‍💻 Enzo Altamirano ---> In charge of Navbar.  
+🧑‍💻 Enzo Altamirano ---> In charge of Navbar & First Heading.  
 🧑‍💻 Luis Miguel Del Valle ---> In charge of Tagline.  
-🧑‍💻 Jose Manuel Sánchez Villegas ---> In charge of.  
+👩‍💻 Valentina Ancieta ---> In charge of Services.    
 👩‍💻 Valentina Mora ---> In charge of Portfolio.  
-👩‍💻 Valentina Ancieta ---> In charge of.   
+🧑‍💻 Jose Manuel Sánchez Villegas ---> In charge of Contact Form & Footer  
+
   
