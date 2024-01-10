@@ -4,9 +4,9 @@ El objetivo de esta web consiste en trabajar en equipo mientras desarrollamos nu
 
 ## 📝 Equipo y Objetivos
 
-🧑‍💻 Enzo Altamirano ---> Encargado de Navbar  
+🧑‍💻 Enzo Altamirano ---> Encargado de Navbar y First Heading   
 🧑‍💻 Luis Miguel Del Valle ---> Encargado de Tagline  
-🧑‍💻 Jose Manuel Sánchez Villegas ---> Encargado de  
+👩‍💻 Valentina Ancieta ---> Encargada de Services  
 👩‍💻 Valentina Mora ---> Encargada de Portfolio  
-👩‍💻 Valentina Ancieta ---> Encargada de
+🧑‍💻 Jose Manuel Sánchez Villegas ---> Encargado de Contact Form y Footer
 
