@@ -1,0 +1,9 @@
+@media screen and (max-width: 281px){
+    #header1{
+        font-size: 3rem !important;
+    }
+
+    #header2{
+        font-size: 2.5rem !important;
+    }
+}
